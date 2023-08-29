@@ -6,3 +6,5 @@ Critérios de avaliação:
 - Funcionalidades de cadastro, listagem e sorteio implementadas (1.0)
 - Estilização similar ao protótipo (0.5)
 - Funcionalidade de edição de participante e remoção (0.5)
+
+Envie o link do repositório para o [link](https://forms.gle/gpmMpg3pH495oqkK8).
